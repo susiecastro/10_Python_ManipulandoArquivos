@@ -1,0 +1,5 @@
+Estou aprendendo a manipular arquivos com o Python.
+Estou ansiosa para aprendenr análise de dados com o Python.
+Quero concluir o Dominando Pyhton o quanto antes.
+
+Aprendendo a atualizar textos em arquivos .txt com Python.
